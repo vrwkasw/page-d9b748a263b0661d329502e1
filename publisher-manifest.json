@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "d04e1cd2007f1523ba6678e0",
+  "owner": "vrwkasw",
+  "repo": "page-d9b748a263b0661d329502e1",
+  "title": "Kevin",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d9b748a263b0661d329502e1",
+      "a": "Kevin",
+      "b": "稳定全球clash加速器",
+      "entity": "Kevin",
+      "brand": "Kevin",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "53406f629ce6578c56b1782f7729af8dae12e9f8396b27dad6f5cf9de57b1ff2",
+      "content": {
+        "primary_entity": "Kevin",
+        "keyword1": "Kevin",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，Kevin 提供基础版、旗舰版与团队版三档订阅，分别对应 100GB/月、300GB/月与 1000GB/月流量，支持 3 台、5 台与 20 台设备同时在线。月付或年付均可选择，年付方案更省。搭配 Clash 客户端导入订阅后，可按需求选择普通线路、IPLC 专线或 VIP 高带宽节点，用于流媒体访问与游戏加速。",
+          "AI_HERO_SUBTITLE": "多档订阅适配不同设备",
+          "AI_HERO_INTRO": "Kevin 是一款面向全球网络访问的加速器服务，提供基础版、旗舰版和团队版三档订阅。流量从每月 100GB 到 1000GB，同时在线设备从 3 台到 20 台，可按个人手机、笔记本或团队多终端场景选择。",
+          "AI_VISUAL_TITLE": "Kevin 订阅方案",
+          "AI_HIGHLIGHT_1": "三档流量可选",
+          "AI_HIGHLIGHT_2": "支持多设备在线",
+          "AI_HIGHLIGHT_3": "年付价格更省",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和订阅周期三个角度快速匹配适合自己的方案。",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURE_TITLE_1": "按设备数选档",
+          "AI_FEATURE_TEXT_1": "手机与笔记本各一可选基础版，同时用三到五台设备选旗舰版，团队多终端选团队版。",
+          "AI_FEATURE_TITLE_2": "按流量需求匹配",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB 适合轻量浏览，旗舰版 300GB 适合流媒体，团队版 1000GB 适合团队协作。",
+          "AI_FEATURE_TITLE_3": "年付节省更多",
+          "AI_FEATURE_TEXT_3": "基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，相比按月支付更划算。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，导入订阅后即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，年付分别为 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "订阅配置步骤",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再选择套餐，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据同时在线设备数量与每月流量，从基础版、旗舰版、团队版中挑选。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端支持范围，确保终端能够导入订阅链接。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依客户端文档添加订阅地址，选择节点后连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对订阅",
+          "AI_CLOSING_TEXT": "按设备数量和流量需求挑选 Kevin 套餐，导入订阅即可开始使用。",
+          "AI_FAQ_ANSWER_1": "月付适合短期使用，年付折算后每月更低。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用年付更划算。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台，旗舰版支持 5 台，团队版支持 20 台设备同时在线。超出数量时新设备会等待释放，升级套餐可提高上限。",
+          "AI_FAQ_ANSWER_3": "旗舰版与团队版包含流媒体解锁，基础版解锁基础流媒体。具体可用平台以实际节点为准，团队版 VIP 节点带宽更高。",
+          "AI_FAQ_ANSWER_4": "Windows、macOS、Android、iOS 各有常用客户端可选。选择对应系统客户端后导入订阅地址即可，具体导入步骤按客户端文档操作。",
+          "AI_FAQ_ANSWER_5": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。流量月底清零，未用完部分不累积到下月。",
+          "AI_FAQ_QUESTION_1": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个订阅能同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "不同套餐的流媒体解锁有区别吗？",
+          "AI_FAQ_QUESTION_4": "客户端在哪里下载和导入订阅？",
+          "AI_FAQ_QUESTION_5": "套餐流量用完了怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nexjigd.cn",
+    "host": "nexjigd.cn"
+  },
+  "file_hashes": {
+    "index.html": "ae6c231337605ebcc2356cad7855c066a945ea54b53a34f4427056cf8f66df4e",
+    "sitemap.xml": "c28e3b8905d64e0d90c02e1a9e86e40706a5ffb282a084f5d47f8c6cbeaaf8de",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "38eb087a2ce7b3ded63f8b32742ed2793d828d9839af075c84901e53921ddec2",
+    "robots.txt": "da17434c2c149e7fc2cb96e35a1f9a1b2d49ea786723549d7b947464acab79f3",
+    "af7f4f38c38f0ba5dd0867c30a895f80.txt": "dd33d1bee6563818c6ee2efb63110a29621f7ef103c03a703cdb9f83d3dd085e"
+  },
+  "revision": "820522de8659358a6a6012bb9e237f7f2aec97c846a76b68e365898b393ef994"
+}
